@@ -1,6 +1,6 @@
 # gif-using-python
 
-import imageio 
+import imageio
 
 images = ["frame1.png", "frame2.png", "frame3.png"]
 
